@@ -5,7 +5,7 @@
 
 ## Precalculus
 - all courses of precaculus
-</br>![alt text](../images/course1/precalculus.jpg)
+</br>![alt text](./images/course1/precalculus.jpg)
 </br>
 
 - trigonometry
