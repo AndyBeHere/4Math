@@ -38,11 +38,9 @@
 8. </br>![alt text](../images/course1/course1Pra1.png)
 </br>
 
-9. </br>![alt text](../images/course1/course1Pra2.png)
+9. </br>![alt text](../images/course1/course1Pra2.jpg)
 </br>
 
 10. </br>![alt text](../images/course1/praticalUse2.jpg)
 </br>
 
-11. </br>![alt text](../images/course1/precalculus.jpg)
-</br>
