@@ -28,15 +28,21 @@
 
 5. </br>![alt text](../images/course1/sim5.jpg)
 </br>
+
 6. </br>![alt text](../images/course1/sim6.jpg)
 </br>
+
 7. </br>![alt text](../images/course1/course1ForPracticalUse.jpg)
 </br>
+
 8. </br>![alt text](../images/course1/course1Pra1.png)
 </br>
+
 9. </br>![alt text](../images/course1/course1Pra2.png)
 </br>
+
 10. </br>![alt text](../images/course1/praticalUse2.jpg)
 </br>
+
 11. </br>![alt text](../images/course1/precalculus.jpg)
 </br>
