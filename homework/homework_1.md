@@ -16,12 +16,16 @@
 ## questions
 1. </br>![alt text](../images/course1/sim1.jpg)
 </br>
+
 2. </br>![alt text](../images/course1/sim2.jpg)
 </br>
+
 3. </br>![alt text](../images/course1/sim3.jpg)
 </br>
+
 4. </br>![alt text](../images/course1/sim4.jpg)
 </br>
+
 5. </br>![alt text](../images/course1/sim5.jpg)
 </br>
 6. </br>![alt text](../images/course1/sim6.jpg)
