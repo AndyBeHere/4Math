@@ -14,5 +14,5 @@
 - domain
 - range
 ## questions
-1. ![alt text](../images/course1/sim1.jpg)
+1. </br>![alt text](../images/course1/sim1.jpg)
 
