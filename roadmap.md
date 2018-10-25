@@ -1,7 +1,13 @@
 # Roadmap of the whole course
 </br>
 
+
+
 ## Precalculus
+- all courses of precaculus
+</br>![alt text](../images/course1/precalculus.jpg)
+</br>
+
 - trigonometry
   - intro to arcsine
   - intro to arctangent
