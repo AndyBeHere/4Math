@@ -11,6 +11,8 @@
 - axis
 - coordinate
 - invertible
+- domain
+- range
 ## transition of radians
 
 ## calculate arcsine
