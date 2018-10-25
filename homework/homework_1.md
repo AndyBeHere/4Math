@@ -13,6 +13,6 @@
 - invertible
 - domain
 - range
-## transition of radians
+## questions
+1. ![alt text](../images/course1/sim1.jpg)
 
-## calculate arcsine
